@@ -9,7 +9,7 @@ public class TestStudent {
 		a.setId(1);
 		a.setName("kalai");
 		a.setAge(19);
-		System.out.println("Id:"+a.getId()+"\n"+"Name:"+a.getName()+"\n"+"age:"+a.getAge());
+		System.out.println("StudentId:"+a.getId()+"\n"+"StudentName:"+a.getName()+"\n"+"Studentage:"+a.getAge());
 	
 	
 
